@@ -1,0 +1,18 @@
+.bg-image {
+  background-image: url('http://courses.ics.hawaii.edu/ics314f23/morea/ui-frameworks/murphys-new-background.jpeg');
+  background-size: cover;
+  background-position: center;
+  height: 500px; /* Adjust the height as needed */
+  color: white; /* Text color */
+  text-align: center;
+  padding: 100px 0;
+}
+
+.bg-image h1 {
+  font-size: 36px;
+}
+.bg-image-1 {
+  height: 100px;
+  background-position: left;
+
+}
